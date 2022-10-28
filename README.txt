@@ -1,6 +1,4 @@
-# Hello-World-Assembly
 Hello, World!-program wirtten in Assembly. 
-
 
 File       Type             What is it?
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
